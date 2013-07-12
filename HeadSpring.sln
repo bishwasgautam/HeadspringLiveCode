@@ -1,13 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headspring.Computations", "ClassLibrary1\Headspring.Computations.csproj", "{CC03DE46-1DC0-440C-9A76-1FC46D34D36C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headspring.Computations", "Headspring.Computations\Headspring.Computations.csproj", "{CC03DE46-1DC0-440C-9A76-1FC46D34D36C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headspring.Computations.Tests", "FizzFuzz.Tests\Headspring.Computations.Tests.csproj", "{24CFFEBD-9A5B-47A5-A3AE-4BC5A9358491}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headspring.Computations.Tests", "Headspring.Computations.Tests\Headspring.Computations.Tests.csproj", "{24CFFEBD-9A5B-47A5-A3AE-4BC5A9358491}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F73C8BC3-906B-4333-A440-C02CCD3957A0}"
 	ProjectSection(SolutionItems) = preProject
-		ConsoleApplication1.vsmdi = ConsoleApplication1.vsmdi
 		Local.testsettings = Local.testsettings
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
@@ -15,9 +14,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Headspring.Main", "Headspring.Main\Headspring.Main.csproj", "{FA438E74-C1E3-4E0D-B427-A66EB417EE81}"
 EndProject
 Global
-	GlobalSection(TestCaseManagementSettings) = postSolution
-		CategoryFile = ConsoleApplication1.vsmdi
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms

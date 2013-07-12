@@ -1,0 +1,4 @@
+﻿------ Clean started: Project: Headspring.Main, Configuration: Debug x86 ------
+------ Clean started: Project: Headspring.Computations.Tests, Configuration: Debug Any CPU ------
+------ Clean started: Project: Headspring.Computations, Configuration: Debug Any CPU ------
+========== Clean: 3 succeeded, 0 failed, 0 skipped ==========
